@@ -1,4 +1,4 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
+<!-- Xh4hn Aesthetic GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
@@ -8,13 +8,13 @@
       <b>
         Hello There
       <br>
-        I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Xh4hn, a linux enthusiast.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ Xh4hn ~
       </b>
     </samp>
   </p>
@@ -30,10 +30,10 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rayhankafipratama">instagram</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+    [<a href="#">twitter</a>]
+    [<a href="#">instagram</a>]
+    [<a href="#">matrix</a>]
+    [<a href="#">e-mail</a>]
   </samp>
 </p>
 

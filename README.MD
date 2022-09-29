@@ -16,16 +16,6 @@
 
 <h2></h2><br>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="#">twitter</a>]
-    [<a href="#">instagram</a>]
-    [<a href="#">matrix</a>]
-    [<a href="#">e-mail</a>]
-  </samp>
-</p>
-
 ## Current setup
 
 This is my **current setup**
@@ -42,15 +32,15 @@ My preferred operative systems are:
 - Parrot OS: I love CTF challenge!
 - Arch Linux: ♔
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="#">twitter</a>]
+    [<a href="#">instagram</a>]
+    [<a href="#">matrix</a>]
+    [<a href="#">e-mail</a>]
+  </samp>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 

@@ -31,7 +31,16 @@
 This is my **current setup**
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
+  
+  
+## Os
 
+Currently i'm using **Parrot OS**! 
+
+My preferred operative systems are:
+
+- Parrot OS: I love CTF challenge!
+- Arch Linux: ♔
 
 
 

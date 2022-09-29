@@ -37,16 +37,9 @@
   </samp>
 </p>
 
-<h2></h2><br>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
-</p>
+
+
 
 <!-- Github Trophy -->
 <div align="center">
@@ -57,15 +50,3 @@
   </table>
 </div>
 
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
-
-</details>
-</div>

@@ -14,7 +14,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami">    
       <br>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&width=435&lines=%2Bh20">   
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100000&pause=10&width=435&lines=%2Bh20">   
       <br>  
     </samp>
   </p>

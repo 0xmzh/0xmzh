@@ -8,14 +8,11 @@
       <b>
         Hello There
       <br>
-        I'm +h2o, a linux enthusiast and CTF player.
+        
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami">    
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami > I'm+%2Bh2o,+a+linux+enthusiast+and+CTF+player.">    
       <br>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=100000&pause=10&width=435&lines=%2Bh20">   
-      <br>  
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>

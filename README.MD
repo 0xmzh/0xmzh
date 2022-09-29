@@ -32,6 +32,10 @@ My preferred operative systems are:
 - Parrot OS: I love CTF challenge!
 - Arch Linux: ♔
 
+## Stats
+
+![+H2o stats](https://github-readme-stats.vercel.app/api?username=+H2o&show_icons=true&theme=react&include_all_commits=true)  
+  
 
 ## Most used languages
 

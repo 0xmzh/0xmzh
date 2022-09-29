@@ -9,7 +9,7 @@
         Hello There
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=550&height=25&lines=~>+./usr/bin/whoami+>+I'm+%2Bh2o,+a+linux+enthusiast+and+CTF+player.">    
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=550&height&duration=7000&pause=65&lines=~>+./usr/bin/whoami+>+I'm+%2Bh2o,+a+linux+enthusiast+and+CTF+player.">    
       <br>
     </samp>
   </p>

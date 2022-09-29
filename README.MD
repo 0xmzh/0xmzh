@@ -32,6 +32,13 @@
   </samp>
 </p>
 
+## Current setup
+
+This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
+
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm/.github/assets/banner.png)
+
+
 
 
 

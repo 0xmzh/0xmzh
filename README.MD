@@ -11,12 +11,9 @@
         I'm +h2o, a linux enthusiast and CTF player.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami;%2Bh2o">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami;%5Cn+%2Bh2o">
           
-      <br>
-      <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ldslsdlk;%2Bh2o" alt="Typing SVG" /></a>
-      <br>    
+      <br>  
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>

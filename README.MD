@@ -5,9 +5,6 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-      <b>
-        Hello There
-      </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=7000&size=15&color=6791c9&pause=1000&width=590&height=77&lines=~+%3E+.%2Fusr%2Fbin%2Fwhoami+%3E+I'm+%2Bh2o%2C+an+Enthusiastic+and+CTF+player.">      
       <br>

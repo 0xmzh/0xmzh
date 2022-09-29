@@ -34,7 +34,7 @@ My preferred operative systems are:
 
 ## Stats
 
-![+H2o stats](https://github-readme-stats.vercel.app/api?username=+H2o&show_icons=true&theme=react&include_all_commits=true)  
+![+H2o stats](https://github-readme-stats.vercel.app/api?username=mazh2o&show_icons=true&theme=react&include_all_commits=true)  
   
 
 ## Most used languages

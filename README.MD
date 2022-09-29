@@ -28,9 +28,9 @@
 
 ## Current setup
 
-This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
+This is my current setup
 
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm/.github/assets/banner.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
 
 
 

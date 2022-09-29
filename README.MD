@@ -11,7 +11,10 @@
         I'm +h2o, a linux enthusiast and CTF player.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%2Bh2o">    
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=~>+./usr/bin/whoami">    
+      <br>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=1000&width=435&lines=%2Bh20">   
       <br>  
     </samp>
   </p>

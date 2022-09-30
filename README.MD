@@ -28,7 +28,6 @@ This was my **Old setup**
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-old.png)
   
-  
 ## Os
 
 Currently i'm using **Parrot OS**! 
@@ -42,11 +41,9 @@ My preferred operative systems are:
 
 ![+H2o stats](https://github-readme-stats.vercel.app/api?username=mazh2o&show_icons=true&theme=react&include_all_commits=true)  
   
-
 ## Most used languages
 
 ![+H2o Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazh2o&theme=react&layout=compact&hide=HTML)
-
 
 <!-- Contact Me -->
 <p align="center">
@@ -57,7 +54,3 @@ My preferred operative systems are:
     [<a href="#">e-mail</a>]
   </samp>
 </p>
-
-
-
-

@@ -26,7 +26,7 @@ This is my **current setup**
 
 This was my **Old setup**
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/old-current.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-old.png)
   
   
 ## Os

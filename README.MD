@@ -22,7 +22,7 @@ This is my [**current setup**](https://github.com/mazh2o/Dotfiles)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
   
-## My Old setup's
+## My Old setups
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/dracula.png)
 

@@ -22,9 +22,13 @@ This is my [**current setup**](https://github.com/mazh2o/Dotfiles)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
   
-## My other setup's
+## My Old setup's
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/1_5028309068888933125.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/dracula.png)
+
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/i3.png)
+
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/moom.png)
  
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/1_4978887859466404501.png)
   

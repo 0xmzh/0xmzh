@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=7000&size=21&color=6791c9&pause=1000&width=500&height=40&lines=I'm+%2BH2o%2C+an+Enthusiastic+and+CTF+player+➊">      
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=7000&size=21&color=6791c9&pause=1000&width=510&height=40&lines=I'm+%2BH2o%2C+an+Enthusiastic+and+CTF+player+➊">      
       <br>
     </samp>
   </p>

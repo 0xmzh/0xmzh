@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=7000&size=15&color=6791c9&pause=1000&width=590&height=40&lines=~+%3E+.%2Fusr%2Fbin%2Fwhoami+%3E+I'm+%2BH2o%2C+an+Enthusiastic+and+CTF+player+➊">      
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&duration=7000&size=15&color=6791c9&pause=1000&width=590&height=40&lines=I'm+%2BH2o%2C+an+Enthusiastic+and+CTF+player+➊">      
       <br>
     </samp>
   </p>
@@ -22,7 +22,9 @@ This is my [**current setup**](https://github.com/mazh2o/Dotfiles)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
   
-## My Old setups
+## My Others setups
+
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/dracula.png)
 

@@ -25,6 +25,11 @@ This is my [**current setup**](https://github.com/mazh2o/Dotfiles)
 ## My Others setups
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
+  
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/IMG_20221103_100119_764.png)
+
+
+
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/dracula.png)
 

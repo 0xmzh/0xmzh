@@ -53,11 +53,11 @@ My preferred operative systems are:
 
 ## Stats
 
-![+H2o stats](https://github-readme-stats.vercel.app/api?username=mazh2o&show_icons=true&theme=react&include_all_commits=true)  
+![+H2o stats](https://github-readme-stats.vercel.app/api?username=0xmzh&show_icons=true&theme=react&include_all_commits=true)  
   
 ## Most used languages
 
-![+H2o Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazh2o&theme=react&layout=compact&hide=HTML)
+![+H2o Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmzh&theme=react&layout=compact&hide=HTML)
 
 <!-- Contact Me -->
 <p align="center">

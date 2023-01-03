@@ -26,13 +26,7 @@ This is my [**current setup**](https://github.com/0xmzh/bspwm-dracula)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
 
-  
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/IMG_20221103_100119_764.png)
 
-
-
-
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/dracula.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/i3.png)
 

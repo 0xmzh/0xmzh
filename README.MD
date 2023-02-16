@@ -31,7 +31,6 @@ This is my [**current setup**](https://github.com/0xmzh/bspwm-dracula)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Green.png)
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/i3.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/moom.png)
  
@@ -42,6 +41,9 @@ This is my [**current setup**](https://github.com/0xmzh/bspwm-dracula)
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/1_4978887859466404498.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/1_4978887859466404505.png)
+  
+
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/i3.png)
 
 
   

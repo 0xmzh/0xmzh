@@ -18,7 +18,7 @@
 
 ## Current setup
 
-This is my [**current setup**](https://github.com/0xmzh/bspwm-dracula)
+This is my [**current setup**](https://github.com/0xmzh/Dotfiles/tree/Dracula)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
   

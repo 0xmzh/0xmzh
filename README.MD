@@ -29,7 +29,7 @@ This is my [**current setup**](https://github.com/0xmzh/bspwm-dracula)
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
   
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/green.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Green.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/i3.png)
 

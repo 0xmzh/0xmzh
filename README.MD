@@ -24,6 +24,8 @@ This is my [**current setup**](https://github.com/0xmzh/kali)
   
 ## My Others setups
 
+[**Parrot setup**](https://github.com/0xmzh/Dotfiles/tree/Dracula)
+
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
   
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)

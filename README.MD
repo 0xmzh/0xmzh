@@ -49,10 +49,11 @@ This is my [**current setup**](https://github.com/0xmzh/Dotfiles/tree/Dracula)
   
 ## Os
 
-Currently i'm using **Parrot OS**! 
+Currently i'm using **Kali Linux**! 
 
 My preferred operative systems are:
 
+- Kali linux: PwnBox!
 - Parrot OS: I love CTF challenge!
 - Arch Linux: ♔
 

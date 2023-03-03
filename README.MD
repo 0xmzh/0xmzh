@@ -20,7 +20,7 @@
 
 This is my [**current setup**](https://github.com/0xmzh/kali)
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/neofetch.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
   
 ## My Others setups
 

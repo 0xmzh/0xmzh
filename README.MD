@@ -20,7 +20,7 @@
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFD43B?style=for-the-badge&logo=ruby&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
-    <img alt="Php" src="https://img.shields.io/badge/PHP-B5E8E0?style=for-the-badge&logo=php&logoColor=white&labelColor=302D41"/>
+    <img alt="Powershell" src="https://img.shields.io/badge/PHP-B5E8E0?style=for-the-badge&logo=php&logoColor=white&labelColor=302D41"/>
     <img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     
 </p><br>

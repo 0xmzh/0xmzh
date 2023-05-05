@@ -33,7 +33,7 @@
  <img alt="Debian" src="https://img.shields.io/badge/Debian-B5E8E0?style=for-the-badge&logo=debian&logoColor=white&labelColor=302D41"/>
 </p><br>
 
-<h2></h2><br>
+<h2></h2>
 
 ## Current setup
 

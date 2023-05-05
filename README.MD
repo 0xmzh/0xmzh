@@ -30,6 +30,7 @@
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"/>
+ <img alt="Debian" src="https://img.shields.io/badge/Debian-B5E8E0?style=for-the-badge&logo=debian&logoColor=white&labelColor=302D41"/>
 </p><br>
 
 <h2></h2><br>

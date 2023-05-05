@@ -33,8 +33,6 @@
  <img alt="Debian" src="https://img.shields.io/badge/Debian-B5E8E0?style=for-the-badge&logo=debian&logoColor=white&labelColor=302D41"/>
 </p><br>
 
-<h2></h2>
-
 ## Current setup
 
 This is my [**current setup**](https://github.com/0xmzh/kali)   |   [**My Others setups**](https://github.com/0xmzh/0xmzh/tree/main/setup)

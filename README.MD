@@ -33,15 +33,14 @@
  <img alt="Debian" src="https://img.shields.io/badge/Debian-B5E8E0?style=for-the-badge&logo=debian&logoColor=white&labelColor=302D41"/>
 </p><br>
 
-## Current setup
+<h2 align="center">Setups</h2>
 
 This is my [**current setup**](https://github.com/0xmzh/kali)   |   [**My Others setups**](https://github.com/0xmzh/0xmzh/tree/main/setup)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
 
 
-
-## Stats
+<h2 align="center">Stats</h2>
 
 ![+H2o stats](https://github-readme-stats.vercel.app/api?username=0xmzh&show_icons=true&theme=react&include_all_commits=true)  
   

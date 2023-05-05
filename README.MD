@@ -40,7 +40,7 @@ This is my [**current setup**](https://github.com/0xmzh/kali)   |   [**My Others
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
 
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 ![+H2o stats](https://github-readme-stats.vercel.app/api?username=0xmzh&show_icons=true&theme=react&include_all_commits=true)  
   

@@ -1,8 +1,6 @@
 ## Current setup
 
-This is my [**current setup**](https://github.com/0xmzh/kali)
-
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
   
 ## My Others setups
 
@@ -10,9 +8,10 @@ This is my [**current setup**](https://github.com/0xmzh/kali)
 
 [**Generic setup**](https://github.com/0xmzh/Dotfiles)
 
+[**Kali-i3**](https://github.com/0xmzh/kali)
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Green.png)
 

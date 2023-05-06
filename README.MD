@@ -37,7 +37,7 @@
 
 This is my [**current setup**](https://github.com/0xmzh/kali)   |   [**My Others setups**](https://github.com/0xmzh/0xmzh/tree/main/setup)
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
 
 
 <h2 align="left">Stats</h2>

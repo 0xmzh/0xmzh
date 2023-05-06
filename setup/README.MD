@@ -6,11 +6,10 @@
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
 
-[**Generic setup**](https://github.com/0xmzh/Dotfiles)
-
 [**Kali-i3**](https://github.com/0xmzh/kali)
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/kali.png)
 
+[**BspWM**](https://github.com/0xmzh/Dotfiles)
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/setup-current.png)
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Green.png)

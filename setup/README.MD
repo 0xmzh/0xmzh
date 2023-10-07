@@ -1,10 +1,12 @@
 ## Current setup
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Material.png)
+![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
+
+<!--- ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/Material.png)--->
   
 ## My Others setups
 
-![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/WIP.png)
+
 
 ![banner](https://raw.githubusercontent.com/mazh2o/mazh2o/main/vault/parrot.png)
 
